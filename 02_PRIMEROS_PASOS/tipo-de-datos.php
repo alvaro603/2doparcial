@@ -1,3 +1,4 @@
+<?php
 // integer, double, string, boolean, array, object, class, unknown type, null
 $entero = 100;
 $decimal = 7.6;
