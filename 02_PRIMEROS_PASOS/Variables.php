@@ -1,7 +1,6 @@
 <?php
 /**
  * Nombres de variables
- * 
  * Deben iniciar con signo de $
  * Seguido de una letra o _
  * Pueden contener letras (alfabeto inglés), números y _
