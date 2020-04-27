@@ -8,7 +8,7 @@
  * No se pueden utilizar palabras reservadas
  * Se recomienda utilizar nombres que tengan sentido
  */
-$nombre = 'Alvaro Ernesto';
+$nombre = 'Alvaro';
 $apellidos = 'Gallardo Lozano';
 $edad = 17;
 $estaEnfermo = false;
