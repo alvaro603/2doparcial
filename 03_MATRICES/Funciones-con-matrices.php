@@ -33,7 +33,7 @@ for ($i=0; $i < $nombres_length; $i++) {
 $usuarios = array(
     "nombres" => "Alvaro",
     "apellidos" => "Gallardo Lozano",
-    "correo_electronico" => "alvarogl@cetis108.edu.mx"
+    "correo_electronico" => "alvarobrooke@cetis108.edu.mx"
 );
 echo $usuarios["correo_electronico"];
 // imprimir los valores de $usuarios en una sola linea separados por coma
